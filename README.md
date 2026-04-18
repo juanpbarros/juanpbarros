@@ -43,7 +43,7 @@ Aplicação em Python para gerenciamento de tempo e produtividade.
 
 ## 📫 Contato
 
-* 💼 LinkedIn: *(coloque seu link aqui)*
+* 💼 LinkedIn: https://www.linkedin.com/in/juanpbarroos/
 * 💻 GitHub: https://github.com/juanpbarros
 
 ---
