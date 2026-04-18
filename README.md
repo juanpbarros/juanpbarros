@@ -1,13 +1,9 @@
-# Juan Barros
+# Juan Barros · <a href="https://www.linkedin.com/in/juanpbarroos/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="23"/></a>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/juanpbarroos/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
 
-Software Engineering Student
-Estudante de Engenharia de Software
+
+Software Engineering Student  
+Estudante de Engenharia de Software  
 
 ---
 
