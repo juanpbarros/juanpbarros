@@ -1,5 +1,11 @@
 # Juan Barros
 
+<p align="center">
+<a href="https://www.linkedin.com/in/juanpbarroos/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
 Software Engineering Student
 Estudante de Engenharia de Software
 
@@ -57,16 +63,3 @@ https://github.com/juanpbarros/TimeOut
 * Código limpo e organizado
 
 * Evolução constante através da prática
-
----
-
-## Contact / Contato
-
-<p align="center">
-<a href="https://www.linkedin.com/in/juanpbarroos/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/juanpbarros">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
